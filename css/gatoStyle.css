@@ -1,0 +1,49 @@
+/*gato html styles*/
+
+body {
+
+
+    text-align: center;
+}
+/*move the link to right*/
+.Inicio:link {
+
+    float: right;
+
+
+}
+
+p {
+
+    text-align: justify;
+    margin: 30px;
+    padding: 0px 50px 20px 20px;
+}
+
+.parra {
+
+    border-collapse: collapse;
+    text-align: justify;
+    margin: 0 auto;
+
+}
+
+table {
+
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+
+    text-align: center;
+}
+
+th {
+
+    text-align: center;
+}
+
+/*fin css gato.html*/
+
+
