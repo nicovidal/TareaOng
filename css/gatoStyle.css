@@ -1,55 +1,44 @@
 /*gato html styles*/
 
 body {
-
     background: url("../imagen/fondo3.jpg");
     text-align: center;
-    background-size:cover;
-    
+    background-size: cover;
 }
+
+
 /*move the link to right*/
 
-
 .Inicio:link {
-
     float: right;
-
-
 }
 
 p {
-
     text-align: justify;
     margin: 30px;
     padding: 0px 50px 20px 20px;
     font-size: large;
-
 }
 
 .parra {
-
     border-collapse: collapse;
     text-align: justify;
     margin: 0 auto;
-
 }
 
 table {
-
     width: 50%;
     border-collapse: collapse;
 }
 
-th, td {
-
+th,
+td {
     text-align: center;
 }
 
 th {
-
     text-align: center;
 }
 
+
 /*fin css gato.html*/
-
-
