@@ -27,7 +27,7 @@ p {
 }
 
 table {
-    width: 50%;
+    width: 40%;
     border-collapse: collapse;
 }
 
@@ -38,6 +38,10 @@ td {
 
 th {
     text-align: center;
+}
+
+a:link {
+    font-size: x-large;
 }
 
 

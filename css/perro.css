@@ -7,3 +7,35 @@ body {
 h1 {
     text-align: center;
 }
+
+.Inicio {
+
+    float: right;
+    font-size: x-large;
+
+}
+
+p {
+
+    text-align: justify;
+    margin: 30px;
+    padding: 0px 50px 20px 20px;
+    font-size: large;
+}
+
+
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+}
+
+th {
+
+    font-size: 30px;
+
+}
+
+a:link {
+    font-size: x-large;
+}
